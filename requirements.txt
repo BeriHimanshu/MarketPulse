@@ -1,0 +1,26 @@
+# Data Ingestion & Manipulation
+pandas
+numpy
+yfinance
+alpha_vantage
+requests
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+xgboost
+catboost
+
+# API & Web Serving
+flask
+fastapi
+uvicorn
+
+# Database & Cloud Connectors
+pyodbc
+sqlalchemy
+azure-storage-blob
+
+# Development & Utility
+python-dotenv
+pytest
